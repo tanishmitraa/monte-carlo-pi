@@ -6,6 +6,10 @@ This project estimates the value of π using a Monte Carlo method.
 - Points inside the unit circle are counted.
 - The ratio approximates π.
 
+## Example Output
+Enter number of samples: 1000000  
+estimated pi: 3.14152
+
 ## Usage
 ```bash
 python main.py
