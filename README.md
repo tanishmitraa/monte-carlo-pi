@@ -1,2 +1,11 @@
 # monte-carlo-pi
-A simple python project that randomly generates points in a square and checks how many of the points fall inside the unit circle. The ratio is then used to approximate the value of pi
+This project estimates the value of π using a Monte Carlo method.
+
+## How it works
+- Random points are generated inside a square.
+- Points inside the unit circle are counted.
+- The ratio approximates π.
+
+## Usage
+```bash
+python main.py
